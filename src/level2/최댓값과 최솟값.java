@@ -10,7 +10,7 @@ s	return
 "-1 -2 -3 -4"	"-4 -1"
 "-1 -1"	"-1 -1" */
 
-package level1;
+package level2;
 
 class Solution {
     public String solution(String s) {
